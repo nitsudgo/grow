@@ -8,13 +8,13 @@ footer,.md-footer,.md-footer-meta  {
 
 @media screen and (max-width: 76.1875em) {
     .md-source {
-        display: flex;
-        align-items: center;
-        justify-content: end;
-        margin-right: 2rem;
+        display: block;
     }
 }
 
 .md-source {
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-right: 2rem;
 }
