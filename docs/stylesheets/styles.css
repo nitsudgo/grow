@@ -3,13 +3,18 @@ footer,.md-footer,.md-footer-meta  {
 }
 
 .md-grid {
-    margin-left: 2rem;
-    margin-right: 2rem;
     max-width: none;
 }
 
+@media screen and (max-width: 76.1875em) {
+    .md-source {
+        display: flex;
+        align-items: center;
+        justify-content: end;
+        margin-right: 2rem;
+    }
+}
+
 .md-source {
-    display: flex;
-    align-items: center;
-    justify-content: end;
+    display: block;
 }
