@@ -1,4 +1,5 @@
 site_name: grow@nitsudgo
+repo_url: https://github.com/nitsudgo/grow
 
 theme:
     name: 'material'
