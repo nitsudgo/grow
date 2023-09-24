@@ -3,7 +3,7 @@ site_name: grow@nitsudgo
 theme:
     name: 'material'
     palette:
-	primary: white
+        primary: white
 
 markdown_extensions:
   - footnotes
