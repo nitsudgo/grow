@@ -5,16 +5,3 @@ footer,.md-footer,.md-footer-meta  {
 .md-grid {
     max-width: none;
 }
-
-@media screen and (max-width: 76.1875em) {
-    .md-source {
-        display: block;
-    }
-}
-
-.md-source {
-    display: flex;
-    align-items: center;
-    justify-content: end;
-    margin-right: 2rem;
-}
