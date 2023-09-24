@@ -1,4 +1,2 @@
 
-# Fungi
-
 Mushrooms lol
