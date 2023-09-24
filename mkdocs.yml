@@ -1,4 +1,4 @@
-site_name: "" 
+site_name: nitsudgrow 
 
 repo_url: https://github.com/nitsudgo/grow
 repo_name: nitsudgo/grow
@@ -6,6 +6,8 @@ repo_name: nitsudgo/grow
 theme:
     name: 'material'
     custom_dir: overrides
+    icon:
+        logo: material/leaflet
     palette:
         primary: white
 
