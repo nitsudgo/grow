@@ -5,6 +5,7 @@ repo_name: nitsudgo/grow
 
 theme:
     name: 'material'
+    custom_dir: overrides
     palette:
         primary: white
 
