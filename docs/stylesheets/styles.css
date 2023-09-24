@@ -5,3 +5,13 @@ footer,.md-footer,.md-footer-meta  {
 .md-grid {
     max-width: none;
 }
+
+.md-main {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+header {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
