@@ -6,6 +6,10 @@ footer,.md-footer,.md-footer-meta  {
     max-width: none;
 }
 
+.md-logo {
+    fill: #00b14f;
+}
+
 .md-main {
     padding-left: 2rem;
     padding-right: 2rem;
