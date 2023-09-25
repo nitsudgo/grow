@@ -1,0 +1,1 @@
+The plant sends out stolons.

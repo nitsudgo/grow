@@ -1,4 +1,5 @@
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non bibendum lectus, sit amet commodo ante. Quisque in ex et enim convallis ultricies. Aenean a consequat turpis, ut molestie sem. Nunc feugiat at est eu ullamcorper. Maecenas mollis malesuada ex quis volutpat. Sed enim nulla, placerat quis metus in, iaculis facilisis ligula. Vestibulum imperdiet elit in nisl fringilla, et tempus odio sollicitudin. Duis vel dolor feugiat enim consequat tincidunt luctus pellentesque velit. Aenean condimentum lobortis pharetra. Proin consequat nunc vel mauris elementum, eget mollis mauris bibendum. Nullam dapibus eget orci non dignissim. Proin tellus lectus, elementum eu nibh luctus, rutrum mollis purus. Ut ultrices erat leo, nec gravida lorem eleifend in.*
+*{short paragraph describing the plant here}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non bibendum lectus, sit amet commodo ante. Quisque in ex et enim convallis ultricies. Aenean a consequat turpis, ut molestie sem. Nunc feugiat at est eu ullamcorper. Maecenas mollis malesuada ex quis volutpat. Sed enim nulla, placerat quis metus in, iaculis facilisis ligula. Vestibulum imperdiet elit in nisl fringilla, et tempus odio sollicitudin. Duis vel dolor feugiat enim consequat tincidunt luctus pellentesque velit. Aenean condimentum lobortis pharetra. Proin consequat nunc vel mauris elementum, eget mollis mauris bibendum. Nullam dapibus eget orci non dignissim. Proin tellus lectus, elementum eu nibh luctus, rutrum mollis purus. Ut ultrices erat leo, nec gravida lorem eleifend in.*
 
 {aliases}
 ___
@@ -13,7 +14,7 @@ ___
 | **Temperature 🌡️**      | ...         |
 | **Light 💡**      | ...         |
 | **Watering 💦**      | ...         |
-| **Propagation 👯**      | [[🌰 Seed]]<br />[[🌱 Cutting]]         |
+| **Propagation 👯**      | ...         |
 | **Other 🤔**      | ...         |
 
 ## Lore

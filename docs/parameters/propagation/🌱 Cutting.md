@@ -1,0 +1,1 @@
+Propagation of the plant can be achieved by rooting a cutting.
