@@ -1,0 +1,10 @@
+{
+  "templater-obsidian:_templates/grow-entry-template.md": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "1"
+    }
+  ]
+}
