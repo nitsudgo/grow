@@ -1,6 +1,8 @@
 ---
 slug: <% tp.file.folder(true) %>/<% tp.file.title %>
 created_at: <% tp.file.creation_date() %>
+scientific_name: []
+aliases: []
 is_template: "1"
 ---
 *{short paragraph describing the plant here}

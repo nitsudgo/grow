@@ -1,6 +1,8 @@
 ---
 slug: fungi/oyster-mushroom
 created_at: 2023-10-22 13:59
+scientific_name: "Pleurotus ostreatus"
+aliases: []
 ---
 *{short paragraph describing the plant here}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non bibendum lectus, sit amet commodo ante. Quisque in ex et enim convallis ultricies. Aenean a consequat turpis, ut molestie sem. Nunc feugiat at est eu ullamcorper. Maecenas mollis malesuada ex quis volutpat. Sed enim nulla, placerat quis metus in, iaculis facilisis ligula.

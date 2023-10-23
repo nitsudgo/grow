@@ -1,6 +1,10 @@
 ---
 slug: plants/bok-choy
 created_at: 2023-10-23 00:02
+scientific_name: "Brassica rapa"
+aliases:
+  - "Pak Choy"
+  - "Pok Choy"
 is_template: "0"
 ---
 *{short paragraph describing the plant here}
