@@ -1,11 +1,13 @@
 ---
 slug: plants/bok-choy
 created_at: 2023-10-23 00:02
-scientific_name: "Brassica rapa"
+scientific_name:
+  - Brassica rapa
 aliases:
-  - "Pak Choy"
-  - "Pok Choy"
+  - Pak Choy
+  - Pok Choy
 is_template: "0"
+featured_image:
 ---
 *{short paragraph describing the plant here}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non bibendum lectus, sit amet commodo ante. Quisque in ex et enim convallis ultricies. Aenean a consequat turpis, ut molestie sem. Nunc feugiat at est eu ullamcorper. Maecenas mollis malesuada ex quis volutpat. Sed enim nulla, placerat quis metus in, iaculis facilisis ligula.

@@ -4,6 +4,7 @@ created_at: <% tp.file.creation_date() %>
 scientific_name: []
 aliases: []
 is_template: "1"
+featured_image:
 ---
 *{short paragraph describing the plant here}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non bibendum lectus, sit amet commodo ante. Quisque in ex et enim convallis ultricies. Aenean a consequat turpis, ut molestie sem. Nunc feugiat at est eu ullamcorper. Maecenas mollis malesuada ex quis volutpat. Sed enim nulla, placerat quis metus in, iaculis facilisis ligula.

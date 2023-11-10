@@ -1,8 +1,10 @@
 ---
 slug: plants/dollarweed
 created_at: 2023-10-22 13:54
-scientific_name: "Hydrocotyle spp."
+scientific_name:
+  - Hydrocotyle spp.
 aliases: []
+featured_image:
 ---
 *{short paragraph describing the plant here}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non bibendum lectus, sit amet commodo ante. Quisque in ex et enim convallis ultricies. Aenean a consequat turpis, ut molestie sem. Nunc feugiat at est eu ullamcorper. Maecenas mollis malesuada ex quis volutpat. Sed enim nulla, placerat quis metus in, iaculis facilisis ligula.

@@ -1,10 +1,12 @@
 ---
 slug: plants/gotu-kola
 created_at: 2023-10-22 13:53
-scientific_name: "Centella asiatica"
+scientific_name:
+  - Centella asiatica
 aliases:
-    - "Indian Pennywort"
-    - "Asiatic Pennywort"
+  - Indian Pennywort
+  - Asiatic Pennywort
+featured_image:
 ---
 *{short paragraph describing the plant here}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non bibendum lectus, sit amet commodo ante. Quisque in ex et enim convallis ultricies. Aenean a consequat turpis, ut molestie sem. Nunc feugiat at est eu ullamcorper. Maecenas mollis malesuada ex quis volutpat. Sed enim nulla, placerat quis metus in, iaculis facilisis ligula.
