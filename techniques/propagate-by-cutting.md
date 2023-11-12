@@ -1,9 +1,9 @@
 ---
-slug: propagation/cutting
+slug: techniques/propagate-by-cutting
 created_at: 2023-10-29 19:04
 scientific_name: []
 aliases: []
-is_template: "1"
+is_template: "0"
 featured_image:
 ---
 Prop by cutting!
