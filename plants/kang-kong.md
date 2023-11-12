@@ -25,9 +25,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non bibendum lectu
 | **Propagation 👯**      | [Seed](techniques/propagate-by-seed.md), [Cutting](techniques/propagate-by-cutting.md)        |
 | **Other 🤔**      | ...         |
 
-
 # Lore
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non bibendum lectus, sit amet commodo ante. Quisque in ex et enim convallis ultricies. Aenean a consequat turpis, ut molestie sem. Nunc feugiat at est eu ullamcorper. Maecenas mollis malesuada ex quis volutpat. Sed enim nulla, placerat quis metus in, iaculis facilisis ligula. Vestibulum imperdiet elit in nisl fringilla, et tempus odio sollicitudin. Duis vel dolor feugiat enim consequat tincidunt luctus pellentesque velit. Aenean condimentum lobortis pharetra. Proin consequat nunc vel mauris elementum, eget mollis mauris bibendum. Nullam dapibus eget orci non dignissim. Proin tellus lectus, elementum eu nibh luctus, rutrum mollis purus. Ut ultrices erat leo, nec gravida lorem eleifend in.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non bibendum lectus, sit amet commodo ante. Quisque in ex et enim convallis ultricies. Aenean a consequat turpis, ut molestie sem. Nunc feugiat at est eu ullamcorper. Maecenas mollis malesuada ex quis volutpat. Sed enim nulla, placerat quis metus in, iaculis facilisis ligula. Vestibulum imperdiet elit in nisl fringilla, et tempus odio sollicitudin. 
+
+Duis vel dolor feugiat enim consequat tincidunt luctus pellentesque velit. Aenean condimentum lobortis pharetra. Proin consequat nunc vel mauris elementum, eget mollis mauris bibendum. Nullam dapibus eget orci non dignissim. Proin tellus lectus, elementum eu nibh luctus, rutrum mollis purus. Ut ultrices erat leo, nec gravida lorem eleifend in.
 
 # Getting Started
 Content here depends on whether it is better to start with seed vs cutting etc.
