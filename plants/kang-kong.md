@@ -22,12 +22,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non bibendum lectu
 | **Temperature 🌡️**      | ...         |
 | **Light 💡**      | ...         |
 | **Watering 💦**      | ...         |
-| **Propagation 👯**      | [Seed](../../propagation/seed), [Cutting](../../propagation/cutting)         |
+| **Propagation 👯**      | [Seed](techniques/propagate-by-seed.md), [Cutting](techniques/propagate-by-cutting.md)        |
 | **Other 🤔**      | ...         |
-
-|   |   |
-| - | - |
-| ![some image](img/test.png) | ![some image](img/test.png) |
 
 
 # Lore

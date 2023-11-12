@@ -1,8 +1,9 @@
 ---
 slug: techniques/propagate-by-seed
 created_at: 2023-10-29 18:59
-scientific_name: []
-aliases: []
+scientific_name: 
+aliases:
+  - Seed
 is_template: "0"
 featured_image:
 ---

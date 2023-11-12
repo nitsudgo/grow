@@ -9,6 +9,9 @@ featured_image:
 *{short paragraph describing the plant here}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non bibendum lectus, sit amet commodo ante. Quisque in ex et enim convallis ultricies. Aenean a consequat turpis, ut molestie sem. Nunc feugiat at est eu ullamcorper. Maecenas mollis malesuada ex quis volutpat. Sed enim nulla, placerat quis metus in, iaculis facilisis ligula.
 
+> [!tip] OI
+> The website code will parse the internal links of Obsidian correctly, just make sure that in the settings, `Wikilinks` is **deactivated** and `New Link Format` is `**Absolute path in vault**`.
+
 {compulsory picture of plant}
 
 # Summary
